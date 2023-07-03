@@ -1,0 +1,17 @@
+{
+  "hello": "Hola",
+  "goodbye": "Hasta Pronto",
+  "pageTitles": {
+    "about": "Sobre Mí",
+    "resume": "Experiencia",
+    "portfolio": "Portafolio",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "email": "Correo Electrónico",
+  "location": "Ubicación",
+  "about": {
+    "whatDoing": "Lo que hago"
+  }
+
+}
